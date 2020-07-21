@@ -1,2 +1,2 @@
 # odinproject
-Odin Project Repository
+Odin Project Repository including testing files
